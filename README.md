@@ -1,6 +1,6 @@
-# Grey Matters
-
 ![Grey matters](img/Grey_Matter.png)
+
+# Grey Matters
 
 ## Goal
 
