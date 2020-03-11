@@ -1,7 +1,3 @@
-<style type="text/css">
-  body{background-color:rgb(169, 169, 169)}
-</style>
-
 # Grey Matters
 
 ![Grey matters](img/Grey_Matter.png)
