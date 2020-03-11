@@ -1,2 +1,9 @@
 # Grey_Matters
-A set of interactive slide decks on various topics
+
+## Goal
+
+The goal of Grey Matters is to master theoretical principles by investigating differences or nuances among two or more concepts.
+
+## State
+
+Newborn.
