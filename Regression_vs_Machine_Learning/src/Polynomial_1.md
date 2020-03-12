@@ -132,9 +132,9 @@ You might argue that one can also do predictions with regression only. True, but
 
 In dutch, the word for polynomials is '_veeltermen_' which literally translates to '_many terms_'. And that is exactly what we will be introducing here. Click on the terms below to view their definitions.
 
-|                             |                         |                                 |
-| --------------------------- | ----------------------- | ------------------------------- |
-| [Polynomials](#11) | [Fitting](#13)     | [Randomization](#14) |
+|                    |                |                      |
+| ------------------ | -------------- | -------------------- |
+| [Polynomials](#11) | [Fitting](#13) | [Randomization](#14) |
 
 <span style='float:right'>[I'm ready, continue →](#15)</span>
 
@@ -142,14 +142,14 @@ In dutch, the word for polynomials is '_veeltermen_' which literally translates 
 
 Are mathematical functions that fit in the following _type of_ series:
 
-|Degree|Formula|
-|-|-|
-|0 (constant)|$-6$|
-|1 (linear)|$5x – 6$|
-|2 (quadratic)|$3x^{2} + 5x – 6$|
-|3 (cubic)|$-2x^{3} + 3x^{2} + 5x – 6$|
-|4 (quartic)|$x^{4} – 2x^{3} + 3x^{2} + 5x – 6$||
-|[…]||
+| Degree        | Formula                            |
+| ------------- | ---------------------------------- |
+| 0 (constant)  | $-6$                               |
+| 1 (linear)    | $5x – 6$                           |
+| 2 (quadratic) | $3x^{2} + 5x – 6$                  |
+| 3 (cubic)     | $-2x^{3} + 3x^{2} + 5x – 6$        |
+| 4 (quartic)   | $x^{4} – 2x^{3} + 3x^{2} + 5x – 6$ |  |
+| […]           |                                    |
 
 <span style='float:right'>[Next](#12)</span>
 

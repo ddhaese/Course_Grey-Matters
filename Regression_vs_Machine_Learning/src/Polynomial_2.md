@@ -263,7 +263,7 @@ plt.show()
 
 Note that it uses a new module that you will need to install upon first use.
 
-![bg left w:500](img/Scatter_Python.png)
+![bg left:40% w:500](img/Scatter_Python.png)
 
 ## Understanding plotting (I)
 
