@@ -8,8 +8,6 @@ theme: GM
 <!-- headingDivider: 2 -->
 <!-- paginate: true -->
 
-@import "gm.css"
-
 <style> 
 h1 {
     color:black;
