@@ -90,10 +90,10 @@ With the data now being presented in a structured way, what would you recommend 
 
 ## Understand the data
 
-The following statement may help to explore and understand the data set. It provides insight on the data types and availability as they were interpreted by the `read_csv` method:
+The following statement may help to explore and understand the data set. It provides insight into the data frame dimensions, the availability and the data types as interpreted by the `read_csv` method:
 
 ```python
->>> df.info(verbose=True)
+>>> data_df.info(verbose=True)
 
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 9357 entries, 0 to 9356
@@ -196,7 +196,7 @@ Data frames are augmented version of <span class='term' title='A python package 
 
 ```python
 arr = [ 1, 2, 3, 4, 5, 6 ]
-mat = [[ 1, 2, 3 ], [ 4, 5, 6 ]]>
+mat = [[ 1, 2, 3 ], [ 4, 5, 6 ]]
 ```
 
 Now, you understand where the single and double square bracket notation comes from:
@@ -353,4 +353,6 @@ Congratulations, you have arrived<br>at your second milestone!
 ![bg right w:200](img/Congrats.gif)
 ![bg right w:400](img/Mile_Stone_2.png)
 
+<br><br>
 
+[I am ready to go to Part III](Regress_ML_3.html#1)

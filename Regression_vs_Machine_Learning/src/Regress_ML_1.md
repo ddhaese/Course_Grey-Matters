@@ -8,6 +8,8 @@ theme: GM
 <!-- headingDivider: 2 -->
 <!-- paginate: true -->
 
+@import "gm.css"
+
 <style> 
 h1 {
     color:black;
@@ -517,4 +519,4 @@ Congratulations, you have arrived<br>at your first milestone!
 
 <br><br>
 
-[I am ready to go to Part II](Polynomial_2.html#1)
+[I am ready to go to Part II](Regress_ML_2.html#1)
